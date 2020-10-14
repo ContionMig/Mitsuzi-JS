@@ -1,7 +1,5 @@
-# My Aim
+# Mitsuzi
 ![Promo](https://github.com/ContionMig/Mitsuzi-JS/blob/main/img/Photoshops/promo.png?raw=true)
-
-Our bot aims to provide every command or feature that other popular bots has to reduce the need for too many bots in one server. We also provide our own commands also aim on improving the bot everyday.
  
 # Economy Commands
 ![Promo1](https://github.com/ContionMig/Mitsuzi-JS/blob/main/img/Photoshops/economy-commands.png?raw=true)
