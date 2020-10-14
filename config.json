@@ -1,0 +1,22 @@
+{
+  "prefix": "+",
+  "database": "./backup.sqlite",
+  "token": "",
+  "ownerid": "",
+  "logchannelid": "",
+  "giphy": "",
+  "steam": "",
+  "osu": "",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 100,
+  "PRUNING": true,
+  "jdoodleclientId": "",
+  "jdoodleclientSecret": "",
+  "newsapis": "",
+  "xrapidapikey": "",
+  "geniusapikey": "",
+  "omdbapi": "",
+  "serverbypass": ["ADMINISTRATOR", "MANAGE_CHANNELS", "MANAGE_GUILD", "KICK_MEMBERS", "BAN_MEMBERS", "VIEW_AUDIT_LOG", "MANAGE_MESSAGES"],
+  "pastebin": ["", "", ""]
+}

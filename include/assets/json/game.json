@@ -1,0 +1,353 @@
+{
+    "data": {
+        "filecommands": [
+            "economy",
+            "fun",
+            "manipulation",
+            "moderation",
+            "music",
+            "nsfw",
+            "others",
+            "pictures",
+            "server",
+            "utility"
+        ],
+        "searchLocation": [
+            "discord",
+            "glovebox",
+            "seat",
+            "attic",
+            "shoe",
+            "box",
+            "yak",
+            "school",
+            "cake",
+            "pumpkin",
+            "market",
+            "boat",
+            "railway",
+            "mountain",
+            "trash",
+            "sofa",
+            "couch",
+            "bag",
+            "sidewalk",
+            "mailbox",
+            "tree",
+            "house",
+            "car",
+            "warehouse",
+            "bank",
+            "drawer",
+            "carbinet",
+            "locker",
+            "toilet",
+            "bathroom",
+            "shower",
+            "trashcan",
+            "bed",
+            "sofa",
+            "desk",
+            "garage",
+            "elevator",
+            "pocket",
+            "sand",
+            "playground",
+            "toolbox",
+            "suitcase",
+            "lake",
+            "blanket",
+            "stove",
+            "fridge",
+            "van",
+            "doghouse",
+            "forest",
+            "waterfall",
+            "island",
+            "cave",
+            "bunker",
+            "dvd",
+            "paper",
+            "clock",
+            "painting"
+        ],
+        "Upgrades": [
+            "moneyprintermk1",
+            "moneyprintermk2",
+            "moneyprintermk3",
+            "turret",
+            "fireturret",
+            "lazerturret",
+            "incense",
+            "chamomile",
+            "miningkit"
+        ],
+        "Bases": [
+            "ghetto",
+            "hood",
+            "hideout",
+            "safehouse",
+            "suburbs",
+            "nightclub",
+            "bunker",
+            "facility",
+            "casino"
+        ],
+        "Shops": [
+            "huntingrifle",
+            "fishingrod",
+            "camera",
+            "rifleammo",
+            "fishbait",
+            "tracking"
+        ],
+        "Emotes": [
+            "<:623575870375985162:747703667645481051>",
+            "<:623564440989859851:747703667247022101>",
+            "<:623564440545263626:747703667624509460>",
+            "<:623564440624824320:747703667301416990>",
+            "<:623564440851316760:747703667146227755>",
+            "<:623564440679350319:747703666999296062>",
+            "<:623564440754978843:747703667238502492>",
+            "<:623564440901779496:747703667481772163>",
+            "<:623564440897454081:747703667452542996>",
+            "<:623564440951980084:747703667544817685>"
+        ],
+        "blackjackemotes": [
+            "<:623575870375985162:747703667645481051>",
+            "<:623575868672835584:747703667486097508>",
+            "<:623564441103106058:747703667037044758>",
+            "<:623564441073614848:747703667179651084>",
+            "<:623564440989859851:747703667247022101>",
+            "<:623564440964694036:747703667502743563>",
+            "<:623564440951980084:747703667544817685>",
+            "<:623564440901779496:747703667481772163>",
+            "<:623564440897454081:747703667452542996>",
+            "<:623564440880807956:747703667448217621>",
+            "<:623564440880807936:747703667263668316>",
+            "<:623564440880545798:747703667439960134>",
+            "<:623564440868225035:747703667272187956>",
+            "<:623564440868225025:747703667179913278>",
+            "<:623564440863899663:747703667443892235>",
+            "<:623564440851316760:747703667146227755>",
+            "<:623564440851185679:747703667137970217>",
+            "<:623564440826150912:747703667339296808>",
+            "<:623564440759173121:747703667112804443>",
+            "<:623564440754978843:747703667238502492>",
+            "<:623564440679350319:747703666999296062>",
+            "<:623564440624824320:747703667301416990>",
+            "<:623564440620630057:747703667381239828>",
+            "<:623564440582881282:747703667318194176>",
+            "<:623564440574623774:747703667288702997>",
+            "<:623564440545263626:747703667624509460>"
+        ],
+        "blackjack": [
+            "A",
+            "A",
+            "4",
+            "K",
+            "2",
+            "7",
+            "J",
+            "8",
+            "9",
+            "K",
+            "Q",
+            "3",
+            "5",
+            "9",
+            "10",
+            "5",
+            "Q",
+            "8",
+            "6",
+            "7",
+            "6",
+            "4",
+            "10",
+            "J",
+            "2",
+            "3"
+        ]
+    },
+    "bases": {
+        "ghetto": {
+            "lebel": "Ghetto",
+            "value": "5000",
+            "description": "A very small hideout with no protection and little space.",
+            "maxupgrade": "2",
+            "basestats": {
+                "defend": "0",
+                "luck": "0"
+            }
+        },
+        "hood": {
+            "lebel": "The Hood",
+            "value": "20000",
+            "description": "Living with a small community which offers little protection.",
+            "maxupgrade": "3",
+            "basestats": {
+                "defend": "10",
+                "luck": "5"
+            }
+        },
+        "hideout": {
+            "lebel": "Hideout",
+            "value": "350000",
+            "description": "A small hideout for you and yourself. Provides no protection but provides a bit of luck.",
+            "maxupgrade": "4",
+            "basestats": {
+                "defend": "5",
+                "luck": "15"
+            }
+        },
+        "safehouse": {
+            "lebel": "Safe House",
+            "value": "500000",
+            "description": "A well rounded base which offers some protection and some luck while being spacous.",
+            "maxupgrade": "5",
+            "basestats": {
+                "defend": "20",
+                "luck": "20"
+            }
+        },
+        "suburbs": {
+            "lebel": "The Suburbs",
+            "value": "1000000",
+            "description": "A expensive place to stay, but offered great protection but not a lot of luck.",
+            "maxupgrade": "6",
+            "basestats": {
+                "defend": "30",
+                "luck": "15"
+            }
+        },
+        "nightclub": {
+            "lebel": "Night Club",
+            "value": "1750250",
+            "description": "A nightclub with your own guards and control. Provides really good protection and luck.",
+            "maxupgrade": "7",
+            "basestats": {
+                "defend": "50",
+                "luck": "40"
+            }
+        },
+        "bunker": {
+            "lebel": "Bunker",
+            "value": "2500000",
+            "description": "Bunkers are huge underground facilities which provides great defense but poor luck.",
+            "maxupgrade": "8",
+            "basestats": {
+                "defend": "80",
+                "luck": "30"
+            }
+        },
+        "facility": {
+            "lebel": "Facility",
+            "value": "3500000",
+            "description": "Facilities are much bigger and stronger providing amazing defense but really poor luck",
+            "maxupgrade": "9",
+            "basestats": {
+                "defend": "90",
+                "luck": "30"
+            }
+        },
+        "casino": {
+            "lebel": "Grand Casino",
+            "value": "5000000",
+            "description": "The Grand Casino, best place to earn but hard to keep safe and defend",
+            "maxupgrade": "10",
+            "basestats": {
+                "defend": "30",
+                "luck": "100"
+            }
+        }
+    },
+    "upgrades": {
+        "moneyprintermk1": {
+            "lebel": "Money Printer MK I",
+            "value": "5000",
+            "description": "Increases how much you get per message you send",
+            "upgrade": "5"
+        },
+        "moneyprintermk2": {
+            "lebel": "Money Printer MK II",
+            "value": "7500",
+            "description": "Increases how much you get per bot commands you send",
+            "upgrade": "10"
+        },
+        "moneyprintermk3": {
+            "lebel": "Money Printer MK III",
+            "value": "10000",
+            "description": "Increases how much you get per bot commands you send and messages you send",
+            "upgrade": "10"
+        },
+        "turret": {
+            "lebel": "Gun Turret",
+            "value": "7500",
+            "description": "Increases your base's defending capability using normal ammos",
+            "upgrade": "2"
+        },
+        "fireturret": {
+            "lebel": "Fire Turret",
+            "value": "15500",
+            "description": "Increases your base's defending capability using fire",
+            "upgrade": "3"
+        },
+        "lazerturret": {
+            "lebel": "Lazer Turret",
+            "value": "25500",
+            "description": "Increases your base's defending capability using fire",
+            "upgrade": "4"
+        },
+        "incense": {
+            "lebel": "Incenses",
+            "value": "3500",
+            "description": "Increases your base's overall luck by just a bit",
+            "upgrade": "2"
+        },
+        "chamomile": {
+            "lebel": "Chamomile Tea",
+            "value": "7500",
+            "description": "Increases your base's overall luck but expensive",
+            "upgrade": "3"
+        },
+        "miningkit": {
+            "lebel": "Mining Kit",
+            "value": "7500",
+            "description": "Gets you a mining kit, which you can use to mine coins for",
+            "upgrade": "300"
+        }
+    },
+    "shop": {
+        "huntingrifle": {
+            "lebel": "Hunting Rifle",
+            "value": "3500",
+            "description": "A hunting rifle is used for hunting or other similar activities"
+        },
+        "fishingrod": {
+            "lebel": "Fishing Rod",
+            "value": "2500",
+            "description": "A fishing rod is used for fishing or other similar activities"
+        },
+        "camera": {
+            "lebel": "Camera",
+            "value": "6075",
+            "description": "A camera which can be used to capture wildlife pictures"
+        },
+        "rifleammo": {
+            "lebel": "Rifle Ammo",
+            "value": "50",
+            "description": "Ammo used for your Hunting Rifle"
+        },
+        "fishbait": {
+            "lebel": "Fish Bait",
+            "value": "50",
+            "description": "Fish bait used for your Fish Rod"
+        },
+        "tracking": {
+            "lebel": "Tracking Node",
+            "value": "5000",
+            "description": "Tracking Node are used to gather server's leaderboards"
+        }
+    }
+}

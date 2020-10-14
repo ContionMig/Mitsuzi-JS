@@ -1,0 +1,2084 @@
+{
+    "wikihows": [
+        {
+            "image": "https://damn.dog/img/pics/dance-at-a-nightclub.jpg",
+            "choices": [
+                "`a)` How To Cure Daffodil Bulbs for Replanting",
+                "`b)` How To Impress a Classmate",
+                "`c)` How To Channel",
+                "`d)` How To Dance at a Nightclub"
+            ],
+            "correct": "d"
+        },
+        {
+            "image": "https://damn.dog/img/pics/kick-out-a-dangerous-roommate.jpg",
+            "choices": [
+                "`a)` How To Pick Up Girls in High School",
+                "`b)` How To Impress a Classmate",
+                "`c)` How To Channel",
+                "`d)` How To Kick Out A Dangerous Roomate"
+            ],
+            "correct": "d"
+         },
+         {
+            "image": "https://damn.dog/img/pics/be-quirky.jpg",
+            "choices": [
+                "`a)` How To Give Someone A Hickey",
+                "`b)` How To Resist Sexual Desires By Following Islamics Traditions",
+                "`c)` How To Be Quirky",
+                "`d)` How To Survive Cold Winter"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/pick-up-girls-in-high-school.jpg",
+            "choices": [
+                "`a)` How To Be A Christian Leader",
+                "`b)` How To Gargle",
+                "`c)` How To Get Your Nipples Pierced",
+                "`d)` How To Pick Up Girls In HighSchool"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/win-a-fist-fight.jpg",
+            "choices": [
+                "`a)` How To Prevent Depression",
+                "`b)` How To Win A Fist Fight",
+                "`c)` How To Act Like A Villian",
+                "`d)` How To Be Stealthy Like A Ninja"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/convince-people-at-school-that-you're-a-vampire.jpg",
+            "choices": [
+                "`a)` How To Buy Used Electronics",
+                "`b)` How To Do Laughter Yoga",
+                "`c)` How To Make Out",
+                "`d)` How To Convince People At School That You're A Vampire"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-a-hipster.jpg",
+            "choices": [
+                "`a)` How To Release Anger",
+                "`b)` How To Give Someone A Hickey",
+                "`c)` How To Be A Hipster",
+                "`d)` How To Turn Down A Drink"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/know-that-a-girl-hates-you.jpg",
+            "choices": [
+                "`a)` How To Avoid Getting Caught Smoking By Your Parents",
+                "`b)` How To Start A Cult",
+                "`c)` How To Know That A Girl Hate You",
+                "`d)` How To Be An Educated Man"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/gargle.jpg",
+            "choices": [
+                "`a)` How To Gargle",
+                "`b)` How To Survive In A Hotel",
+                "`c)` How To Make People Think You're A Witch",
+                "`d)` How To Eat Worms"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/deal-with-a-sarcastic-person.jpg",
+            "choices": [
+                "`a)` How To Create A Fictional Character From Scratch",
+                "`b)` How To Not Get Stress",
+                "`c)` How To Make Friends",
+                "`d)` How To Deal With A Sarcastic Person"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/tell-your-crush-you-like-him-without-words.jpg",
+            "choices": [
+                "`a)` How To Be Laid Back",
+                "`b)` How To Tell Your Crush You Like Him Without Words",
+                "`c)` How To Be Naturally Funny",
+                "`d)` How To Make A Guy That Is Mad At You Like You Again Through Text"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/spot-a-catfish.jpg",
+            "choices": [
+                "`a)` How To Not Get Nervous",
+                "`b)` How To Spot A Catfish",
+                "`c)` How To Know If Your Girlfriend Want To Have Sex With You",
+                "`d)` How To Be Interesting"
+            ],
+            "correct": "b"
+          },          
+          {
+            "image": "https://damn.dog/img/pics/detect-lies.jpg",
+            "choices": [
+                "`a)` How To Detect Lies",
+                "`b)` How To Be A Dominatrix",
+                "`c)` How To Kick Out A Dangerous Roommate",
+                "`d)` How To Get An Emo Girlfriend"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/choose-a-healthy-fast-food-breakfast.jpg",
+            "choices": [
+                "`a)` How To Choose A Healthy Fast Food Breakfast",
+                "`b)` How To Decide If You Should Become A Stripper",
+                "`c)` How To Respond To Sarcasm",
+                "`d)` How To Be A Lesbian"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/spot-signs-of-lsd-use.jpg",
+            "choices": [
+                "`a)` How To Spot Signs Of LSD use",
+                "`b)` How To Heal Broken Bones",
+                "`c)` How To Tell If You're A Metal Poser",
+                "`d)` How To Avoid Uncomfortable Conversations About Religion"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/act-drunk.jpg",
+            "choices": [
+                "`a)` How To Be Naturally Funny",
+                "`b)` How To Start a Best Friends Club",
+                "`c)` How To Act Drunk",
+                "`d)` How To Act Like One of the Guys"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/stop-hating-children.jpg",
+            "choices": [
+                "`a)` How To Start a Best Friends Club",
+                "`b)` How To Tell if You Are a Metal Poser",
+                "`c)` How To Stop Hating Children",
+                "`d)` How To Visit Laguna Beach, California"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/give-someone-a-hickey.jpg",
+            "choices": [
+                "`a)` How To Give Someone a Hickey",
+                "`b)` How To Act when Your Boyfriend Keeps Paying for Everything",
+                "`c)` How To Be a Sweet Lolita",
+                "`d)` How To Spot Signs of LSD Use"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-pretty.jpg",
+            "choices": [
+                "`a)` How To Start a Best Friends Club",
+                "`b)` How To Control Your Urge to Masturbate",
+                "`c)` How To Be Pretty",
+                "`d)` How To Disappear Like a Ninja"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/open-a-jiffy-lube-franchise.jpg",
+            "choices": [
+                "`a)` How To Know if You Are Drunk",
+                "`b)` How To Get a Gay Male Friend (for Girls)",
+                "`c)` How To Open a Jiffy Lube Franchise",
+                "`d)` How To Capture Joie De Vivre"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/touch-a-girl.jpg",
+            "choices": [
+                "`a)` How To Stop a Sneeze",
+                "`b)` How To Touch a Girl",
+                "`c)` How To Get an Emo Girlfriend",
+                "`d)` How To Help Someone"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/use-chocolate-to-spice-up-your-relationship.jpg",
+            "choices": [
+                "`a)` How To Be a True Hip Hop Artist",
+                "`b)` How To Use Chocolate to Spice up Your Relationship",
+                "`c)` How To Make Lemonade When Life Gives You Lemons",
+                "`d)` How To Start a Cult"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/cope-with-arrogant-people.jpg",
+            "choices": [
+                "`a)` How To Gargle",
+                "`b)` How To Release Endorphins",
+                "`c)` How To Decide if You Should Become a Stripper",
+                "`d)` How To Cope With Arrogant People"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/lose-your-fear-of-being-fired.jpg",
+            "choices": [
+                "`a)` How To Keep Dogs off Lawn",
+                "`b)` How To Lose Your Fear of Being Fired",
+                "`c)` How To Catch a Cheating Boyfriend",
+                "`d)` How To Be a Good Wife"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/choose-a-rigorous-college-schedule-for-your-first-year.jpg",
+            "choices": [
+                "`a)` How To Trust Your Husband",
+                "`b)` How To Care for Uromastyx Lizards",
+                "`c)` How To Choose a Rigorous College Schedule for Your First Year",
+                "`d)` How To Differentiate Between a Real Skater and a Poser Skater"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-interesting.jpg",
+            "choices": [
+                "`a)` How To Turn On Your Boyfriend",
+                "`b)` How To Be Interesting",
+                "`c)` How To Resist Sexual Desires by Following Islamic Traditions",
+                "`d)` How To Be Playful"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/live-in-peace.jpg",
+            "choices": [
+                "`a)` How To Show Respect",
+                "`b)` How To Discuss Barack Obama Intelligently",
+                "`c)` How To Live in Peace",
+                "`d)` How To Stop a Masturbation Addiction"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/get-a-boy-to-dance-with-you-and-then-kiss-you-at-the-end-(middle-school).jpg",
+            "choices": [
+                "`a)` How To Cure Daffodil Bulbs for Replanting",
+                "`b)` How To Get a Boy to Dance With You and then Kiss You at the End (Middle School)",
+                "`c)` How To Stand up for Yourself",
+                "`d)` How To Write a Comedy Sketch"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/cope-with-being-in-love-with-a-fictional-character.jpg",
+            "choices": [
+                "`a)` How To Trust a Wife",
+                "`b)` How To Send Dirty Texts",
+                "`c)` How To Cope With Being in Love With a Fictional Character",
+                "`d)` How To Stop a Sneeze"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/cosplay-barbie.jpg",
+            "choices": [
+                "`a)` How To Write a Dystopian Novel",
+                "`b)` How To Be Less Clingy",
+                "`c)` How To Reason",
+                "`d)` How To Cosplay Barbie"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/stop-hating-other-women.jpg",
+            "choices": [
+                "`a)` How To Stop Hating Other Women",
+                "`b)` How To Act Like Royalty",
+                "`c)` How To Change a Girl's Mind",
+                "`d)` How To Turn a Girl On"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/eat-a-donut.jpg",
+            "choices": [
+                "`a)` How To Persuade a Christian to Become Atheist",
+                "`b)` How To Stand up for Yourself",
+                "`c)` How To Differentiate Between a Real Skater and a Poser Skater",
+                "`d)` How To Eat a Donut"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/talk-to-authority.jpg",
+            "choices": [
+                "`a)` How To Act Depressed",
+                "`b)` How To Win an Eating Contest",
+                "`c)` How To Talk to Authority",
+                "`d)` How To Discuss Barack Obama Intelligently"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/sue-for-emotional-distress.jpg",
+            "choices": [
+                "`a)` How To Choose a Healthy Fast Food Breakfast",
+                "`b)` How To Set a Schedule for Toddlers",
+                "`c)` How To Sue for Emotional Distress",
+                "`d)` How To Win an Eating Contest"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/use-french-in-conversations-about-mammals.jpg",
+            "choices": [
+                "`a)` How To Pretend to Be a Wizard",
+                "`b)` How To Use French in Conversations About Mammals",
+                "`c)` How To Stop Thinking that Accepting Help is a Sign of Weakness",
+                "`d)` How To Be Persuasive"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/not-care-what-people-think.jpg",
+            "choices": [
+                "`a)` How To Not Care What People Think",
+                "`b)` How To Act Like Bella from Twilight",
+                "`c)` How To Kick Out a Dangerous Roommate",
+                "`d)` How To Love Yourself"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/stop-staring-at-a-girl's-boobs.jpg",
+            "choices": [
+                "`a)` How To Disappear Like a Ninja",
+                "`b)` How To Help Paranoid People",
+                "`c)` How To Control Your Urge to Masturbate",
+                "`d)` How To Stop Staring at a Girl's Boobs"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/start-a-best-friends-club.jpg",
+            "choices": [
+                "`a)` How To Know If Your Boyfriend Is Being Disrespectful to You",
+                "`b)` How To Use French in Conversations About Mammals",
+                "`c)` How To Cope With Being in Love With a Fictional Character",
+                "`d)` How To Start a Best Friends Club"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/write-a-comedy-sketch.jpg",
+            "choices": [
+                "`a)` How To Write a Comedy Sketch",
+                "`b)` How To Run Away From Home",
+                "`c)` How To Be an Airhead",
+                "`d)` How To Get Rid of an Unwanted Erection"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/differentiate-between-a-real-skater-and-a-poser-skater.jpg",
+            "choices": [
+                "`a)` How To Differentiate Between a Real Skater and a Poser Skater",
+                "`b)` How To Be a World Citizen",
+                "`c)` How To Date a Girl That Is Taller Than You",
+                "`d)` How To Teach Your Child Math"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/avoid-uncomfortable-conversations-about-religion.jpg",
+            "choices": [
+                "`a)` How To Deal with a Fear of Being Murdered",
+                "`b)` How To Write a Dystopian Novel",
+                "`c)` How To Avoid Uncomfortable Conversations About Religion",
+                "`d)` How To Catch a Cheating Girlfriend"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/buy-firearms-in-california.jpg",
+            "choices": [
+                "`a)` How To Cure a Headache Without Medication",
+                "`b)` How To Get Over a Crush on Your Best Friend",
+                "`c)` How To Buy Firearms in California",
+                "`d)` How To Live in Peace"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/tell-if-you-are-a-metal-poser.jpg",
+            "choices": [
+                "`a)` How To Freak People Out",
+                "`b)` How To Deal With a Cheating Boyfriend",
+                "`c)` How To Become a Pastafarian",
+                "`d)` How To Tell if You Are a Metal Poser"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/love-your-girlfriend.jpg",
+            "choices": [
+                "`a)` How To Love Your Girlfriend",
+                "`b)` How To Avoid Creating a Weak Villain",
+                "`c)` How To Know If Your Boyfriend Is Being Disrespectful to You",
+                "`d)` How To Get Over an Affair and Move On with Your Relationship"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/treat-nasal-infection-naturally.jpg",
+            "choices": [
+                "`a)` How To Act Drunk",
+                "`b)` How To Treat Nasal Infection Naturally",
+                "`c)` How To Get a Lesbian Girlfriend",
+                "`d)` How To Take Action if a Guy Calls You Ugly"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/get-rid-of-an-unwanted-erection.jpg",
+            "choices": [
+                "`a)` How To Not Get Nervous",
+                "`b)` How To Succeed in a Relationship with the Perfect Girl",
+                "`c)` How To Act Like a Villain",
+                "`d)` How To Get Rid of an Unwanted Erection"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/perform-a-lap-dance-for-your-boyfriend-or-husband.jpg",
+            "choices": [
+                "`a)` How To Survive a Charging Elephant",
+                "`b)` How To Be a Hipster",
+                "`c)` How To Perform a Lap Dance for Your Boyfriend or Husband",
+                "`d)` How To Deal With a Cheating Boyfriend"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-comfortable-in-your-own-skin.jpg",
+            "choices": [
+                "`a)` How To Be Comfortable in Your Own Skin",
+                "`b)` How To Be Polite in Norway",
+                "`c)` How To Learn Smoking Tricks",
+                "`d)` How To Prevent Depression"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/know-when-you'll-get-your-first-period.jpg",
+            "choices": [
+                "`a)` How To Use Chocolate to Spice up Your Relationship",
+                "`b)` How To Know if You Are Drunk",
+                "`c)` How To Love",
+                "`d)` How To Know When You'll Get Your First Period"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-a-hipster-girl.jpg",
+            "choices": [
+                "`a)` How To Get on a Reality TV Show",
+                "`b)` How To Come Down from a High",
+                "`c)` How To Be a Stripper Who Knows What She Is Doing",
+                "`d)` How To Be a Hipster Girl"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/love.jpg",
+            "choices": [
+                "`a)` How To Refuse a Kiss",
+                "`b)` How To Stand up for Yourself",
+                "`c)` How To Create Urban Rainforests",
+                "`d)` How To Love"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/make-a-girl-become-obsessed-with-you.jpg",
+            "choices": [
+                "`a)` How To Survive a Cold Winter",
+                "`b)` How To Act Depressed",
+                "`c)` How To Be Persuasive",
+                "`d)` How To Make a Girl Become Obsessed with You"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/write-a-dystopian-novel.jpg",
+            "choices": [
+                "`a)` How To Stop Hating Other Women",
+                "`b)` How To Write a Dystopian Novel",
+                "`c)` How To Run Away From Home",
+                "`d)` How To Show Your Husband That You Love Him"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/understand-the-male-ego.jpg",
+            "choices": [
+                "`a)` How To Heal Broken Bones",
+                "`b)` How To Act when Your Boyfriend Keeps Paying for Everything",
+                "`c)` How To Refuse a Kiss",
+                "`d)` How To Understand the Male Ego"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/identify-a-psychopath.jpg",
+            "choices": [
+                "`a)` How To Identify a Psychopath",
+                "`b)` How To Deal With a Friend's Death",
+                "`c)` How To Prevent Depression",
+                "`d)` How To Plan a Disney Vacation"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/say-some-common-phrases-in-esperanto.jpg",
+            "choices": [
+                "`a)` How To Say Some Common Phrases in Esperanto",
+                "`b)` How To Fart Quietly",
+                "`c)` How To Make a Friend Fall in Love with You",
+                "`d)` How To Make Your Girlfriend Want to Have Sex With You"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/work-and-study-at-the-same-time.jpg",
+            "choices": [
+                "`a)` How To Work and Study at the Same Time",
+                "`b)` How To Improve Public Speaking Skills",
+                "`c)` How To Turn Down a Drink",
+                "`d)` How To Make People Think You're a Witch"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/deal-with-a-fear-of-being-murdered.jpg",
+            "choices": [
+                "`a)` How To Increase Your Ejaculate",
+                "`b)` How To Deal with a Fear of Being Murdered",
+                "`c)` How To Tell when a Girl Is Interested in You",
+                "`d)` How To Prevent Depression"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/pretend-to-be-a-wizard.jpg",
+            "choices": [
+                "`a)` How To Stay Calm Around an Ex",
+                "`b)` How To Pretend to Be a Wizard",
+                "`c)` How To Turn Down a Drink",
+                "`d)` How To Overcome an Addiction"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/flatulate-secretively-(teenagers).jpg",
+            "choices": [
+                "`a)` How To Release Endorphins",
+                "`b)` How To Tell if You Are a Metal Poser",
+                "`c)` How To Capture Joie De Vivre",
+                "`d)` How To Flatulate Secretively (Teenagers)"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-an-educated-man.jpg",
+            "choices": [
+                "`a)` How To Deal With a Friend's Death",
+                "`b)` How To Show Respect",
+                "`c)` How To Get Over Anger Caused by Video Games",
+                "`d)` How To Be an Educated Man"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/release-anger.jpg",
+            "choices": [
+                "`a)` How To Tell Your Crush You Like Him Without Words",
+                "`b)` How To Release Anger",
+                "`c)` How To Be Honest",
+                "`d)` How To Talk to a Girl Without It Getting Boring"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/get-on-a-reality-tv-show.jpg",
+            "choices": [
+                "`a)` How To Trust Your Husband",
+                "`b)` How To Help Someone",
+                "`c)` How To Get on a Reality TV Show",
+                "`d)` How To Use French in Conversations About Mammals"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/avoid-getting-caught-smoking-by-your-parents.jpg",
+            "choices": [
+                "`a)` How To Identify a Psychopath",
+                "`b)` How To Say Some Common Phrases in Esperanto",
+                "`c)` How To Avoid Getting Caught Smoking by Your Parents",
+                "`d)` How To Plan a Disney Vacation"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/become-a-pastafarian.jpg",
+            "choices": [
+                "`a)` How To Become a Pastafarian",
+                "`b)` How To Choose a Healthy Fast Food Breakfast",
+                "`c)` How To Be a Dominatrix",
+                "`d)` How To Tell a Lie Without Being Caught"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/love-yourself.jpg",
+            "choices": [
+                "`a)` How To Be a Lesbian",
+                "`b)` How To Love Yourself",
+                "`c)` How To Tell if Someone Hates You",
+                "`d)` How To Pretend to Be a Wizard"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/afford-expensive-stuff-(teens).jpg",
+            "choices": [
+                "`a)` How To Afford Expensive Stuff (Teens)",
+                "`b)` How To Enjoy Phone Sex",
+                "`c)` How To Change from a Poser Goth to a Real One",
+                "`d)` How To Entertain"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/freak-people-out.jpg",
+            "choices": [
+                "`a)` How To Freak People Out",
+                "`b)` How To Flirt With a Hot Girl",
+                "`c)` How To Have a Happy Healthy and Spiritually Fulfilled Old Age",
+                "`d)` How To Accept Your Boyfriend's Interest in Pornography"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/eat-a-bowl-of-cereal.jpg",
+            "choices": [
+                "`a)` How To Appreciate The Simpsons",
+                "`b)` How To Control Rosacea",
+                "`c)` How To Dissolve the Ego",
+                "`d)` How To Eat a Bowl of Cereal"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/develop-common-sense.jpg",
+            "choices": [
+                "`a)` How To Develop Common Sense",
+                "`b)` How To Deal With Enemies",
+                "`c)` How To Be Laid Back",
+                "`d)` How To Not Get Arrested While Skateboarding"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/simplify-your-life.jpg",
+            "choices": [
+                "`a)` How To Simplify Your Life",
+                "`b)` How To Spot a Catfish",
+                "`c)` How To Choose a Puppy",
+                "`d)` How To Control Your Urge to Masturbate"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/not-get-arrested-while-skateboarding.jpg",
+            "choices": [
+                "`a)` How To Stop Hating Someone",
+                "`b)` How To Stand up for Yourself",
+                "`c)` How To Not Get Arrested While Skateboarding",
+                "`d)` How To Feed a Snake"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/have-a-successful-open-source-project.jpg",
+            "choices": [
+                "`a)` How To Calm Down Quickly",
+                "`b)` How To Avoid Getting Caught Smoking by Your Parents",
+                "`c)` How To Create a Benefit Concert Series",
+                "`d)` How To Have a Successful Open Source Project"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/help-save-whales.jpg",
+            "choices": [
+                "`a)` How To Visit Laguna Beach, California",
+                "`b)` How To Help Save Whales",
+                "`c)` How To Trust Your Husband",
+                "`d)` How To Send Dirty Texts"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/not-get-nervous.jpg",
+            "choices": [
+                "`a)` How To Treat Nasal Infection Naturally",
+                "`b)` How To Overcome Emotional Sensitivity",
+                "`c)` How To Freak People Out",
+                "`d)` How To Not Get Nervous"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/relax-when-you-are-sick.jpg",
+            "choices": [
+                "`a)` How To Fix Your Digestion",
+                "`b)` How To Relax When You Are Sick",
+                "`c)` How To Do Laughter Yoga",
+                "`d)` How To Avoid Getting Caught Smoking by Your Parents"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/know-if-you-have-did-or-dissociative-personality-disorder.jpg",
+            "choices": [
+                "`a)` How To Act Like the Doctor of Doctor Who",
+                "`b)` How To Use French in Conversations About Mammals",
+                "`c)` How To Know If You Have DID Or Dissociative Personality Disorder",
+                "`d)` How To Talk to a Girl Without It Getting Boring"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/cure-a-headache-without-medication.jpg",
+            "choices": [
+                "`a)` How To Send Dirty Texts",
+                "`b)` How To Cure a Headache Without Medication",
+                "`c)` How To Have Jehovah's Witnesses Go Away",
+                "`d)` How To Set a Schedule for Toddlers"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/get-famous-while-young.jpg",
+            "choices": [
+                "`a)` How To Act Like Bella from Twilight",
+                "`b)` How To Get Famous While Young",
+                "`c)` How To Fix Your Digestion",
+                "`d)` How To Trust a Wife"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/know-if-your-boyfriend-is-being-disrespectful-to-you.jpg",
+            "choices": [
+                "`a)` How To Get Money Without Working",
+                "`b)` How To Know If Your Boyfriend Is Being Disrespectful to You",
+                "`c)` How To Get Over an Anime Addiction",
+                "`d)` How To Become an Olympian"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/start-doing-stand-up-comedy.jpg",
+            "choices": [
+                "`a)` How To Act Depressed",
+                "`b)` How To Change a Girl's Mind",
+                "`c)` How To Be a Good Husband",
+                "`d)` How To Start Doing Stand up Comedy"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/capture-joie-de-vivre.jpg",
+            "choices": [
+                "`a)` How To Deal With Being Replaced",
+                "`b)` How To Make Your Boyfriend Kiss You",
+                "`c)` How To Make Someone Feel Better Via Text Message",
+                "`d)` How To Capture Joie De Vivre"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/stop-thinking-that-accepting-help-is-a-sign-of-weakness.jpg",
+            "choices": [
+                "`a)` How To Stop Thinking that Accepting Help is a Sign of Weakness",
+                "`b)` How To Stop Hating Someone",
+                "`c)` How To Send Dirty Texts",
+                "`d)` How To Recognize a Controlling Person"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-polite-in-norway.jpg",
+            "choices": [
+                "`a)` How To Release Endorphins",
+                "`b)` How To Eat in Islam",
+                "`c)` How To Be Polite in Norway",
+                "`d)` How To Be a Dominatrix"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/tell-if-a-church-is-a-cult.jpg",
+            "choices": [
+                "`a)` How To Not Care What People Think",
+                "`b)` How To Make Your Girlfriend Want to Have Sex With You",
+                "`c)` How To Tell if a Church is a Cult",
+                "`d)` How To Act Depressed"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/make-your-boyfriend-kiss-you.jpg",
+            "choices": [
+                "`a)` How To Choose a Rigorous College Schedule for Your First Year",
+                "`b)` How To Get a Lesbian Girlfriend",
+                "`c)` How To Make Your Boyfriend Kiss You",
+                "`d)`How To Get a Lesbian Girlfriend "
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/recognize-the-signs-of-intoxication.jpg",
+            "choices": [
+                "`a)` How To Know If Your Girlfriend Wants to Have Sex With You",
+                "`b)` How To Deal with Strict Christian Parents",
+                "`c)` How To Be an Airhead",
+                "`d)` How To Recognize the Signs of Intoxication"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-sexually-empowered.jpg",
+            "choices": [
+                "`a)` How To Heal Broken Bones",
+                "`b)` How To Capture Joie De Vivre",
+                "`c)` How To Be Sexually Empowered",
+                "`d)` How To Become the Most Popular Girl in Your Class"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/deal-with-being-replaced.jpg",
+            "choices": [
+                "`a)` How To Dance Emo",
+                "`b)` How To Chew Gum",
+                "`c)` How To Use Chocolate to Spice up Your Relationship",
+                "`d)` How To Deal With Being Replaced"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/pole-vault.jpg",
+            "choices": [
+                "`a)` How To Watch a Horror Movie",
+                "`b)` How To Capture Joie De Vivre",
+                "`c)` How To Pole Vault",
+                "`d)` How To Control Your Urge to Masturbate"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/turn-down-a-drink.jpg",
+            "choices": [
+                "`a)` How To Turn Down a Drink",
+                "`b)` How To Stop a Masturbation Addiction",
+                "`c)` How To Work and Study at the Same Time",
+                "`d)` How To Smell Seductive on Dates"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/persuade-a-christian-to-become-atheist.jpg",
+            "choices": [
+                "`a)` How To Persuade a Christian to Become Atheist",
+                "`b)` How To Tell if You Are a Metal Poser",
+                "`c)` How To Not Get Arrested While Skateboarding",
+                "`d)` How To Deal With a Cheating Boyfriend"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/make-people-think-you're-a-witch.jpg",
+            "choices": [
+                "`a)` How To Feed a Snake",
+                "`b)` How To Detect Lies",
+                "`c)` How To Talk to Authority",
+                "`d)` How To Make People Think You're a Witch"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/dress-up-like-a-hillbilly.jpg",
+            "choices": [
+                "`a)` How To Be Edgy",
+                "`b)` How To Be Subtle About Getting a Guy to Call You",
+                "`c)` How To Dress Up Like a Hillbilly",
+                "`d)` How To Clear a Stuffy Nose"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/lose-your-virginity-without-pain-(girls).jpg",
+            "choices": [
+                "`a)` How To Love",
+                "`b)` How To Lose Your Virginity Without Pain (Girls)",
+                "`c)` How To Be Less Clingy",
+                "`d)` How To Have Fun Without Friends"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-a-male-housewife.jpg",
+            "choices": [
+                "`a)` How To Convince People at School That You're a Vampire",
+                "`b)` How To Read People",
+                "`c)` How To Be a Male Housewife",
+                "`d)` How To Make Your Boyfriend Break up With You"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/teach-manners-to-a-toddler.jpg",
+            "choices": [
+                "`a)` How To Make Out",
+                "`b)` How To Meet a Porn Star in Your Area",
+                "`c)` How To Act Depressed",
+                "`d)` How To Teach Manners to a Toddler"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/turn-a-girl-on.jpg",
+            "choices": [
+                "`a)` How To Stay Calm Around an Ex",
+                "`b)` How To Tell if Someone Is High",
+                "`c)` How To Turn a Girl On",
+                "`d)` How To Quit Drinking Alcohol"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/impress-people.jpg",
+            "choices": [
+                "`a)` How To Kick Out a Dangerous Roommate",
+                "`b)` How To Impress People",
+                "`c)` How To Get Over a Crush on Your Best Friend",
+                "`d)` How To Cheat On a Test"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/induce-nightmares.jpg",
+            "choices": [
+                "`a)` How To Start a Cult",
+                "`b)` How To Stop Binge Drinking",
+                "`c)` How To Laugh Naturally on Cue",
+                "`d)` How To Induce Nightmares"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-a-sweet-lolita.jpg",
+            "choices": [
+                "`a)` How To Treat Nasal Infection Naturally",
+                "`b)` How To Be an Educated Man",
+                "`c)` How To Respond to Fundamentalists",
+                "`d)` How To Be a Sweet Lolita"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-edgy.jpg",
+            "choices": [
+                "`a)` How To Be Edgy",
+                "`b)` How To Survive in the Woods",
+                "`c)` How To Be a Punk",
+                "`d)` How To Perform a Lap Dance for Your Boyfriend or Husband"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/deal-with-a-cheating-boyfriend.jpg",
+            "choices": [
+                "`a)` How To Change from a Poser Goth to a Real One",
+                "`b)` How To Get a Gay Male Friend (for Girls)",
+                "`c)` How To Act Like Bella from Twilight",
+                "`d)` How To Deal With a Cheating Boyfriend"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-brave.jpg",
+            "choices": [
+                "`a)` How To Be Brave",
+                "`b)` How To Cosplay Barbie",
+                "`c)` How To Eat in Islam",
+                "`d)` How To Win a Race"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/fix-bad-breath-on-the-spot.jpg",
+            "choices": [
+                "`a)` How To Fix Bad Breath on the Spot",
+                "`b)` How To Change from a Poser Goth to a Real One",
+                "`c)` How To Choose a Healthy Fast Food Breakfast",
+                "`d)` How To Reason"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/win-a-tickle-war.jpg",
+            "choices": [
+                "`a)` How To Be a Dominatrix",
+                "`b)` How To Know if You Are Drunk",
+                "`c)` How To Improve Public Speaking Skills",
+                "`d)` How To Win a Tickle War"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/set-a-schedule-for-toddlers.jpg",
+            "choices": [
+                "`a)` How To Set a Schedule for Toddlers",
+                "`b)` How To Be Mean and Intimidating when Necessary",
+                "`c)` How To Live in Peace",
+                "`d)` How To Induce Nightmares"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/discuss-barack-obama-intelligently.jpg",
+            "choices": [
+                "`a)` How To Trust a Wife",
+                "`b)` How To Teach Manners to a Toddler",
+                "`c)` How To Be Mean and Intimidating when Necessary",
+                "`d)` How To Discuss Barack Obama Intelligently"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/respectfully-decline-sex.jpg",
+            "choices": [
+                "`a)` How To Grind (for Guys)",
+                "`b)` How To Flatulate Secretively (Teenagers)",
+                "`c)` How To Respectfully Decline Sex",
+                "`d)` How To Be Strong"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/have-jehovah's-witnesses-go-away.jpg",
+            "choices": [
+                "`a)` How To Quit Drinking Alcohol",
+                "`b)` How To Be Unique",
+                "`c)` How To Be Subtle About Getting a Guy to Call You",
+                "`d)` How To Have Jehovah's Witnesses Go Away"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/deal-with-enemies.jpg",
+            "choices": [
+                "`a)` How To Be Unique",
+                "`b)` How To Be a True Hip Hop Artist",
+                "`c)` How To Deal With Enemies",
+                "`d)` How To Be Quirky"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/trick-people-into-thinking-you're-possessed.jpg",
+            "choices": [
+                "`a)` How To Love Yourself",
+                "`b)` How To Trick People into Thinking You're Possessed",
+                "`c)` How To Tell if Someone Hates You",
+                "`d)` How To Teach Manners to a Toddler"
+            ],
+            "correct": "b"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/get-an-emo-girlfriend.jpg",
+            "choices": [
+                "`a)` How To Smell Seductive on Dates",
+                "`b)` How To Make Lemonade When Life Gives You Lemons",
+                "`c)` How To Get an Emo Girlfriend",
+                "`d)` How To Make a Girl Become Obsessed with You"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/calm-down-quickly.jpg",
+            "choices": [
+                "`a)` How To Calm Down Quickly",
+                "`b)` How To Act Like Bella from Twilight",
+                "`c)` How To Stop Hating Children",
+                "`d)` How To Persuade a Christian to Become Atheist"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/care-for-uromastyx-lizards.jpg",
+            "choices": [
+                "`a)` How To Survive in a Hotel",
+                "`b)` How To Be Subtle About Getting a Guy to Call You",
+                "`c)` How To Be Stealthy Like a Ninja",
+                "`d)` How To Care for Uromastyx Lizards"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-a-spy.jpg",
+            "choices": [
+                "`a)` How To Stop Snacking Between Meals",
+                "`b)` How To Be Comfortable in Your Own Skin",
+                "`c)` How To Be a Spy",
+                "`d)` How To Know When You'll Get Your First Period"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/choose-a-puppy.jpg",
+            "choices": [
+                "`a)` How To Choose a Puppy",
+                "`b)` How To Be a Femme Fatale",
+                "`c)` How To Be Hipster Yet Emo",
+                "`d)` How To Teach a Toddler to Walk"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/start-an-indie-lifestyle.jpg",
+            "choices": [
+                "`a)` How To Deal With Annoying Kids",
+                "`b)` How To Act Depressed",
+                "`c)` How To Start an Indie Lifestyle",
+                "`d)` How To Be Brave"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-emotionless.jpg",
+            "choices": [
+                "`a)` How To Be Emotionless",
+                "`b)` How To Date a Stripper",
+                "`c)` How To Be a Hipster",
+                "`d)` How To Succeed in a Relationship with the Perfect Girl"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/be-a-good-entertainer.jpg",
+            "choices": [
+                "`a)` How To Be an Educated Man",
+                "`b)` How To Be Older Than Your Age",
+                "`c)` How To Be Edgy",
+                "`d)` How To Be a Good Entertainer"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/change-from-a-poser-goth-to-a-real-one.jpg",
+            "choices": [
+                "`a)` How To Change from a Poser Goth to a Real One",
+                "`b)` How To Drink More Milk Every Day",
+                "`c)` How To Choose a Rigorous College Schedule for Your First Year",
+                "`d)` How To Come Down from a High"
+            ],
+            "correct": "a"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/flirt-with-a-hot-girl.jpg",
+            "choices": [
+                "`a)` How To Avoid Creating a Weak Villain",
+                "`b)` How To Create a Benefit Concert Series",
+                "`c)` How To Have an Imaginary Boyfriend or Girlfriend",
+                "`d)` How To Flirt With a Hot Girl"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/enjoy-pornography-in-the-comfort-of-your-home.jpg",
+            "choices": [
+                "`a)` How To Become a Hacker",
+                "`b)` How To Be Comfortable in Your Own Skin",
+                "`c)` How To Play the Alto Saxophone",
+                "`d)` How To Enjoy Pornography in the Comfort of Your Home"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/humanely-kill-a-fish.jpg",
+            "choices": [
+                "`a)` How To Be a Sweet Lolita",
+                "`b)` How To Survive in a Hotel",
+                "`c)` How To Humanely Kill a Fish",
+                "`d)` How To Make a Friend Fall in Love with You"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/overcome-an-addiction.jpg",
+            "choices": [
+                "`a)` How To Deal With a Lying Child",
+                "`b)` How To Act Drunk",
+                "`c)` How To Buy Firearms in California",
+                "`d)` How To Overcome an Addiction"
+            ],
+            "correct": "d"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/survive-in-the-woods.jpg",
+            "choices": [
+                "`a)` How To Win a Race",
+                "`b)` How To Dance at a Nightclub",
+                "`c)` How To Survive in the Woods",
+                "`d)` How To Be an Airhead"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/be-a-fascist.jpg",
+            "choices": [
+                "`a)` How To Be a Good Entertainer",
+                "`b)` How To Motivate Yourself",
+                "`c)` How To Be a Fascist",
+                "`d)` How To Act Like One of the Guys"
+            ],
+            "correct": "c"
+          },  
+          {
+            "image": "https://damn.dog/img/pics/help-someone-overcome-marijuana-addiction.jpg",
+            "choices": [
+                "`a)` How To Improve Public Speaking Skills",
+                "`b)` How To Help Someone Overcome Marijuana Addiction",
+                "`c)` How To Become a Pastafarian",
+                "`d)` How To Release Endorphins"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/speak-finnish.jpg",
+            "choices": [
+                "`a)` How To Get Along with Your Crush",
+                "`b)` How To Speak Finnish",
+                "`c)` How To Cosplay As Spongebob",
+                "`d)` How To Be Sassy"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/improve-public-speaking-skills.jpg",
+            "choices": [
+                "`a)` How To Pick Up Girls in High School",
+                "`b)` How To Prevent Depression",
+                "`c)` How To Improve Public Speaking Skills",
+                "`d)` How To Turn a Girl on when You're Only Friends"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/prevent-identity-theft.jpg",
+            "choices": [
+                "`a)` How To Be a True Hip Hop Artist",
+                "`b)` How To Prevent Identity Theft",
+                "`c)` How To Know If Your Girlfriend Wants to Have Sex With You",
+                "`d)` How To Be Pretty"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/deal-with-a-friend's-death.jpg",
+            "choices": [
+                "`a)` How To Act Like a Villain",
+                "`b)` How To Deal With a Friend's Death",
+                "`c)` How To Clear a Stuffy Nose",
+                "`d)` How To Talk to Girls as a Teen Boy"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/learn-smoking-tricks.jpg",
+            "choices": [
+                "`a)` How To Deal With People Who Ignore You",
+                "`b)` How To Learn Smoking Tricks",
+                "`c)` How To Play With a Pet",
+                "`d)` How To Identify Cervicitis"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/date-a-girl-that-is-taller-than-you.jpg",
+            "choices": [
+                "`a)` How To Write a Dystopian Novel",
+                "`b)` How To Date a Girl That Is Taller Than You",
+                "`c)` How To Fix Your Digestion",
+                "`d)` How To Help Someone Overcome Marijuana Addiction"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/play-wink-murder.jpg",
+            "choices": [
+                "`a)` How To Make Friends Online",
+                "`b)` How To Build a Child's Self Esteem",
+                "`c)` How To Play Wink Murder",
+                "`d)` How To Send Dirty Texts"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/tell-if-you-genuinely-like-someone.jpg",
+            "choices": [
+                "`a)` How To Tell if You Genuinely Like Someone",
+                "`b)` How To Eat in Islam",
+                "`c)` How To Control Your Urge to Masturbate",
+                "`d)` How To Wear a Dance Belt"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/survive-domestic-violence.jpg",
+            "choices": [
+                "`a)` How To Run Away From Home",
+                "`b)` How To Survive Domestic Violence",
+                "`c)` How To Eat in Islam",
+                "`d)` How To Respond to Sarcasm"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/accept-your-boyfriend's-interest-in-pornography.jpg",
+            "choices": [
+                "`a)` How To Accept Your Boyfriend's Interest in Pornography",
+                "`b)` How To Run Away From Home",
+                "`c)` How To Stop Hating Other Women",
+                "`d)` How To Identify Trauma in Autistic People"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/play-with-a-pet.jpg",
+            "choices": [
+                "`a)` How To Play With a Pet",
+                "`b)` How To Survive in the Woods",
+                "`c)` How To Be a Hipster",
+                "`d)` How To Get over Eavesdropped Phone Sex That You Had Without Knowing It Eavesdropped"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/be-a-good-husband.jpg",
+            "choices": [
+                "`a)` How To Survive in a Hotel",
+                "`b)` How To Make Yourself Pee",
+                "`c)` How To Trick People into Thinking You're Possessed",
+                "`d)` How To Be a Good Husband"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/fart-quietly.jpg",
+            "choices": [
+                "`a)` How To Deal with Strict Christian Parents",
+                "`b)` How To Survive a Freestyle Rap Battle",
+                "`c)` How To Fart Quietly",
+                "`d)` How To Speak Finnish"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-less-clingy.jpg",
+            "choices": [
+                "`a)` How To Be a Man",
+                "`b)` How To Cheat On a Test",
+                "`c)` How To Be Less Clingy",
+                "`d)` How To Get over Eavesdropped Phone Sex That You Had Without Knowing It Eavesdropped"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/eat-nachos.jpg",
+            "choices": [
+                "`a)` How To Make a Friend Fall in Love with You",
+                "`b)` How To Date a Girl That Is Taller Than You",
+                "`c)` How To Get Famous While Young",
+                "`d)` How To Eat Nachos"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/make-your-girlfriend-want-to-have-sex-with-you.jpg",
+            "choices": [
+                "`a)` How To Be Stealthy Like a Ninja",
+                "`b)` How To Stop Hating Someone",
+                "`c)` How To Make Your Girlfriend Want to Have Sex With You",
+                "`d)` How To Humanely Kill a Fish"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/get-over-anger-caused-by-video-games.jpg",
+            "choices": [
+                "`a)` How To Choose a Rigorous College Schedule for Your First Year",
+                "`b)` How To Open a Jiffy Lube Franchise",
+                "`c)` How To Be a True Hip Hop Artist",
+                "`d)` How To Get Over Anger Caused by Video Games"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/make-lemonade-when-life-gives-you-lemons.jpg",
+            "choices": [
+                "`a)` How To Act Depressed",
+                "`b)` How To Make Lemonade When Life Gives You Lemons",
+                "`c)` How To Prevent Depression",
+                "`d)` How To Build a Child's Self Esteem"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/catch-a-cheating-girlfriend.jpg",
+            "choices": [
+                "`a)` How To Start an Indie Lifestyle",
+                "`b)` How To Smell Seductive on Dates",
+                "`c)` How To Get Anime Eyes",
+                "`d)` How To Catch a Cheating Girlfriend"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/act-like-a-villain.jpg",
+            "choices": [
+                "`a)` How To Act Like a Villain",
+                "`b)` How To Open a Jiffy Lube Franchise",
+                "`c)` How To Know If Your Girlfriend Wants to Have Sex With You",
+                "`d)` How To Get Over Anger Caused by Video Games"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-a-femme-fatale.jpg",
+            "choices": [
+                "`a)` How To Use Chocolate to Spice up Your Relationship",
+                "`b)` How To Be a Femme Fatale",
+                "`c)` How To Fix Bad Breath on the Spot",
+                "`d)` How To Win at Arm Wrestling"
+            ],
+            "correct": "b"
+          },
+          {
+            "image": "https://damn.dog/img/pics/be-a-trophy-wife.jpg",
+            "choices": [
+                "`a)` How To Defend Yourself",
+                "`b)` How To Prevent Depression",
+                "`c)` How To Be a Trophy Wife",
+                "`d)` How To Be a Dominatrix"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/talk-to-girls-as-a-teen-boy.jpg",
+            "choices": [
+                "`a)` How To Not Get Arrested While Skateboarding",
+                "`b)` How To Survive a Cold Winter",
+                "`c)` How To Come Down from a High",
+                "`d)` How To Talk to Girls as a Teen Boy"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/appreciate-the-simpsons.jpg",
+            "choices": [
+                "`a)` How To Buy Used Electronics",
+                "`b)` How To Be Sexually Empowered",
+                "`c)` How To Get Famous While Young",
+                "`d)` How To Appreciate The Simpsons"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-a-stripper-who-knows-what-she-is-doing.jpg",
+            "choices": [
+                "`a)` How To Survive in a Hotel",
+                "`b)` How To Act Like the Doctor of Doctor Who",
+                "`c)` How To Understand the Male Ego",
+                "`d)` How To Be a Stripper Who Knows What She is Doing"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/tell-when-a-girl-is-interested-in-you.jpg",
+            "choices": [
+                "`a)` How To Not Do Drugs",
+                "`b)` How To Be Less Clingy",
+                "`c)` How To Become a Teen Hacker",
+                "`d)` How To Tell when a Girl Is Interested in You"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/release-endorphins.jpg",
+            "choices": [
+                "`a)` How To Release Endorphins",
+                "`b)` How To Be an Educated Man",
+                "`c)` How To Be a Stripper Who Knows What She Is Doing",
+                "`d)` How To Relax"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/change-a-girl's-mind.jpg",
+            "choices": [
+                "`a)` How To Succeed in a Relationship with the Perfect Girl",
+                "`b)` How To Be Brave",
+                "`c)` How To Deal With Enemies",
+                "`d)` How To Change a Girl's Mind"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-playful.jpg",
+            "choices": [
+                "`a)` How To Eat a Donut",
+                "`b)` How To Know if You Are Drunk",
+                "`c)` How To Be Playful",
+                "`d)` How To Be Better Than Your Enemy"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/increase-your-ejaculate.jpg",
+            "choices": [
+                "`a)` How To Cheat On a Test",
+                "`b)` How To Catch a Cheating Boyfriend",
+                "`c)` How To Increase Your Ejaculate",
+                "`d)` How To Make Friends"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/live-in-a-dungeon.jpg",
+            "choices": [
+                "`a)` How To Be Playful",
+                "`b)` How To Trust a Wife",
+                "`c)` How To Live in a Dungeon",
+                "`d)` How To Talk to Authority"
+            ],
+            "correct": "c"
+          },
+          {
+            "image": "https://damn.dog/img/pics/be-a-good-wife.jpg",
+            "choices": [
+                "`a)` How To Talk Dirty in Bed",
+                "`b)` How To Be a Good Wife",
+                "`c)` How To Pick Up Girls in High School",
+                "`d)` How To Be a Stripper Who Knows What She is Doing"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/survive-a-charging-elephant.jpg",
+            "choices": [
+                "`a)` How To Be Emotionless",
+                "`b)` How To Create Urban Rainforests",
+                "`c)` How To Survive a Charging Elephant",
+                "`d)` How To Disappear Like a Ninja"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/smell-seductive-on-dates.jpg",
+            "choices": [
+                "`a)` How To Smell Seductive on Dates",
+                "`b)` How To Avoid Creating a Weak Villain",
+                "`c)` How To Visit Laguna Beach, California",
+                "`d)` How To Be Sassy"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/overcome-emotional-sensitivity.jpg",
+            "choices": [
+                "`a)` How To Overcome Emotional Sensitivity",
+                "`b)` How To Stop Binge Drinking",
+                "`c)` How To Play the Alto Saxophone",
+                "`d)` How To Be the Type of Nerd That Girls Love"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/keep-dogs-off-lawn.jpg",
+            "choices": [
+                "`a)` How To Be a Hipster",
+                "`b)` How To Keep Dogs off Lawn",
+                "`c)` How To Cure Knock Knees Naturally",
+                "`d)` How To Improve Public Speaking Skills"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/become-famous-on-the-internet.jpg",
+            "choices": [
+                "`a)` How To Become Famous on the Internet",
+                "`b)` How To Be a Successful Teenager",
+                "`c)` How To Not Care What People Think",
+                "`d)` How To Become an Olympian"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-a-man.jpg",
+            "choices": [
+                "`a)` How To Deal with a Love Triangle",
+                "`b)` How To Be a Man",
+                "`c)` How To Get on a Reality TV Show",
+                "`d)` How To Deal with a Love Triangle"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-an-airhead.jpg",
+            "choices": [
+                "`a)` How To Help Someone",
+                "`b)` How To Be an Airhead",
+                "`c)` How To Act Like Bella from Twilight",
+                "`d)` How To Make Friends"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/deal-with-a-lying-child.jpg",
+            "choices": [
+                "`a)` How To Send Dirty Texts",
+                "`b)` How To Deal With a Lying Child",
+                "`c)` How To Tell a Girl You Like Her",
+                "`d)` How To Recognize a Controlling Person"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-confident-as-a-overweight-adult.jpg",
+            "choices": [
+                "`a)` How To Be Confident As an Overweight Adult",
+                "`b)` How To Cure a Headache Without Medication",
+                "`c)` How To Chew Gum",
+                "`d)` How To Win a Tickle War"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/give-your-boyfriend-space.jpg",
+            "choices": [
+                "`a)` How To Give Your Boyfriend Space",
+                "`b)` How To Create a Fictional Character from Scratch",
+                "`c)` How To Make a Guy That Is Mad at You Like You Again Through Text",
+                "`d)`How To Cosplay As Spongebob "
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-a-punk.jpg",
+            "choices": [
+                "`a)` How To Cope With Being in Love With a Fictional Character",
+                "`b)` How To Show Respect",
+                "`c)` How To Be a Punk",
+                "`d)` How To Start a Cult"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/deal-with-people-who-ignore-you.jpg",
+            "choices": [
+                "`a)` How To Simplify Your Life",
+                "`b)` How To Stop Binge Drinking",
+                "`c)` How To Deal With People Who Ignore You",
+                "`d)` How To Deal With Enemies"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/drink-more-milk-every-day.jpg",
+            "choices": [
+                "`a)` How To Know If Your Girlfriend Wants to Have Sex With You",
+                "`b)` How To Understand Heterosexual People",
+                "`c)` How To Drink More Milk Every Day",
+                "`d)` How To Know That a Girl Hates You"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/become-a-teen-hacker.jpg",
+            "choices": [
+                "`a)` How To Raise a Child",
+                "`b)` How To Have an Imaginary Boyfriend or Girlfriend",
+                "`c)` How To Talk to a Shy Boy That You Don't Know Very Well",
+                "`d)` How To Become a Teen Hacker"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-sassy.jpg",
+            "choices": [
+                "`a)` How To Be Sassy",
+                "`b)` How To Perform a Lap Dance for Your Boyfriend or Husband",
+                "`c)` How To Be Cunning",
+                "`d)` How To Be a Hipster Girl"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/get-over-an-anime-addiction.jpg",
+            "choices": [
+                "`a)` How To Tell if You Genuinely Like Someone",
+                "`b)` How To Open a Jiffy Lube Franchise",
+                "`c)` How To Discuss Barack Obama Intelligently",
+                "`d)` How To Get Over an Anime Addiction"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/do-laughter-yoga.jpg",
+            "choices": [
+                "`a)` How To Take Action if a Guy Calls You Ugly",
+                "`b)` How To Act Like One of the Guys",
+                "`c)` How To Stop Being Selfish",
+                "`d)` How To Do Laughter Yoga"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/fix-your-digestion.jpg",
+            "choices": [
+                "`a)` How To Get on a Reality TV Show",
+                "`b)` How To Spot Signs of LSD Use",
+                "`c)` How To Quit Drinking Alcohol",
+                "`d)` How To Fix Your Digestion"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/talk-to-a-girl-without-it-getting-boring.jpg",
+            "choices": [
+                "`a)` How To Choose a Puppy",
+                "`b)` How To Write a Dystopian Novel",
+                "`c)` How To Control Your Urge to Masturbate",
+                "`d)` How To Talk to a Girl Without It Getting Boring"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/teach-a-toddler-to-walk.jpg",
+            "choices": [
+                "`a)` How To Teach a Toddler to Walk",
+                "`b)` How To Help Someone",
+                "`c)` How To Eat Nachos",
+                "`d)` How To Be Subtle About Getting a Guy to Call You"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/ask-a-girl-to-a-dance.jpg",
+            "choices": [
+                "`a)` How To Catch a Cheating Girlfriend",
+                "`b)` How To Catch a Cheating Girlfriend",
+                "`c)` How To Enhance Your Sarcasm Skills",
+                "`d)` How To Ask a Girl to a Dance"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/have-a-happy-healthy-and-spiritually-fulfilled-old-age.jpg",
+            "choices": [
+                "`a)` How To Help Someone Overcome Marijuana Addiction",
+                "`b)` How To Know That a Girl Hates You",
+                "`c)` How To Discuss Barack Obama Intelligently",
+                "`d)` How To Have a Happy Healthy and Spiritually Fulfilled Old Age"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/turn-on-your-boyfriend.jpg",
+            "choices": [
+                "`a)` How To Love Yourself",
+                "`b)` How To Calm Down Quickly",
+                "`c)` How To Start Doing Stand up Comedy",
+                "`d)` How To Turn On Your Boyfriend"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/get-a-free-car-if-you-have-a-disability.jpg",
+            "choices": [
+                "`a)` How To Get a Free Car if You Have a Disability",
+                "`b)` How To Act Like a Villain",
+                "`c)` How To Get a Lesbian Girlfriend",
+                "`d)` How To Pretend to Be a Wizard"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/start-a-cult.jpg",
+            "choices": [
+                "`a)` How To Simplify Your Life",
+                "`b)` How To Visit Laguna Beach, California",
+                "`c)` How To Be Stealthy Like a Ninja",
+                "`d)` How To Start a Cult"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-naturally-funny.jpg",
+            "choices": [
+                "`a)` How To Turn On Your Boyfriend",
+                "`b)` How To Be Naturally Funny",
+                "`c)` How To Be Persuasive",
+                "`d)` How To Grind (for Guys)"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/show-your-husband-that-you-love-him.jpg",
+            "choices": [
+                "`a)` How To Support the Arts",
+                "`b)` How To Fake Pregnancy",
+                "`c)` How To Show Your Husband That You Love Him",
+                "`d)` How To Deal with a Fear of Being Murdered"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/win-an-eating-contest.jpg",
+            "choices": [
+                "`a)` How To Become a Hacker",
+                "`b)` How To Deal With Your Parents' Divorce",
+                "`c)` How To Become Famous on the Internet",
+                "`d)` How To Win an Eating Contest"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/tell-if-someone-hates-you.jpg",
+            "choices": [
+                "`a)` How To Tell if Someone Hates You",
+                "`b)` How To Control Your Urge to Masturbate",
+                "`c)` How To Stop Snacking Between Meals",
+                "`d)` How To Choose a Rigorous College Schedule for Your First Year"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/make-your-boyfriend-break-up-with-you.jpg",
+            "choices": [
+                "`a)` How To Make Your Boyfriend Break up With You",
+                "`b)` How To Become a Pastafarian",
+                "`c)` How To Not Get Arrested While Skateboarding",
+                "`d)` How To Tell a Girl You Like Her"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/buy-used-electronics.jpg",
+            "choices": [
+                "`a)` How To Give Your Boyfriend Space",
+                "`b)` How To Buy Used Electronics",
+                "`c)` How To Live in a Dungeon",
+                "`d)` How To Avoid Uncomfortable Conversations About Religion"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/defend-yourself.jpg",
+            "choices": [
+                "`a)` How To Tell if You Genuinely Like Someone",
+                "`b)` How To Put Your Arm Around a Girl",
+                "`c)` How To Get Over an Anime Addiction",
+                "`d)` How To Defend Yourself"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-a-true-hip-hop-artist.jpg",
+            "choices": [
+                "`a)` How To Be a True Hip Hop Artist",
+                "`b)` How To Refuse a Kiss",
+                "`c)` How To Motivate Yourself",
+                "`d)` How To Help Someone Overcome Marijuana Addiction"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/deal-with-strict-christian-parents.jpg",
+            "choices": [
+                "`a)` How To Enhance Your Sarcasm Skills",
+                "`b)` How To Deal with Strict Christian Parents",
+                "`c)` How To Survive a Charging Elephant",
+                "`d)` How To Eat in Islam"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-unique.jpg",
+            "choices": [
+                "`a)` How To Be Unique",
+                "`b)` How To Deal With a Sarcastic Person",
+                "`c)` How To Cure Knock Knees Naturally",
+                "`d)` How To Increase Your Ejaculate"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/visit-laguna-beach,-california.jpg",
+            "choices": [
+                "`a)` How To Wear a Dance Belt",
+                "`b)` How To Set a Schedule for Toddlers",
+                "`c)` How To Cope With Being in Love With a Fictional Character",
+                "`d)` How To Visit Laguna Beach, California"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/become-an-alpha-male.jpg",
+            "choices": [
+                "`a)` How To Become Good at Knife Fighting",
+                "`b)` How To Become An Alpha Male",
+                "`c)` How To Be Brave",
+                "`d)` How To Survive in the Woods"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/build-a-child's-self-esteem.jpg",
+            "choices": [
+                "`a)` How To Keep Dogs off Lawn",
+                "`b)` How To Teach a Toddler to Walk",
+                "`c)` How To Know When You'll Get Your First Period",
+                "`d)` How To Build a Child's Self Esteem"
+            ],
+            "correct": "d"
+          },
+          {
+            "image": "https://damn.dog/img/pics/act-like-sonic-the-hedgehog.jpg",
+            "choices": [
+                "`a)` How To Act Like Sonic the Hedgehog",
+                "`b)` How To Be a World Citizen",
+                "`c)` How To Be the Type of Nerd That Girls Love",
+                "`d)` How To Feed a Snake"
+            ],
+            "correct": "a"
+          },
+          {
+            "image": "https://damn.dog/img/pics/prevent-depression.jpg",
+            "choices": [
+                "`a)` How To Increase Your Ejaculate",
+                "`b)` How To Wear a Dance Belt",
+                "`c)` How To Become Famous on the Internet",
+                "`d)` How To Prevent Depression"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/act-silly-with-your-boyfriend.jpg",
+            "choices": [
+                "`a)` How To Eat Nachos",
+                "`b)` How To Act Silly with Your Boyfriend",
+                "`c)` How To Resist Sexual Desires by Following Islamic Traditions",
+                "`d)` How To Work and Study at the Same Time"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/get-along-with-your-crush.jpg",
+            "choices": [
+                "`a)` How To Be a Girl Spy",
+                "`b)` How To Perform a Lap Dance for Your Boyfriend or Husband",
+                "`c)` How To Get Along with Your Crush",
+                "`d)` How To Resist Sexual Desires by Following Islamic Traditions"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/play-a-prank.jpg",
+            "choices": [
+                "`a)` How To Play a Prank",
+                "`b)` How To Speak Finnish",
+                "`c)` How To Cope With Arrogant People",
+                "`d)` How To Quit Drinking Alcohol"
+            ],
+            "correct": "a"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/know-if-your-girlfriend-wants-to-have-sex-with-you.jpg",
+            "choices": [
+                "`a)` How To Ask a Girl to a Dance",
+                "`b)` How To Pretend to Be a Wizard",
+                "`c)` How To Know If Your Girlfriend Wants to Have Sex With You",
+                "`d)` How To Start a Cult"
+            ],
+            "correct": "c"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/be-less-judgmental.jpg",
+            "choices": [
+                "`a)` How To Simplify Your Life",
+                "`b)` How To Be a Successful Teenager",
+                "`c)` How To Dance at a Nightclub",
+                "`d)` How To Be Less Judgmental"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/dance-emo.jpg",
+            "choices": [
+                "`a)` How To Get a Lesbian Girlfriend",
+                "`b)` How To Be Playful",
+                "`c)` How To Play a Prank",
+                "`d)` How To Dance Emo"
+            ],
+            "correct": "d"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/not-do-drugs.jpg",
+            "choices": [
+                "`a)` How To Talk to a Shy Boy That You Don't Know Very Well",
+                "`b)` How To Not Do Drugs",
+                "`c)` How To Take Action if a Guy Calls You Ugly",
+                "`d)` How To Reason"
+            ],
+            "correct": "b"
+          }, 
+          {
+            "image": "https://damn.dog/img/pics/turn-a-girl-on-when-you're-only-friends.jpg",
+            "choices": [
+                "`a)` How To Turn a Girl on when You're Only Friends",
+                "`b)` How To Know If You Have DID Or Dissociative Personality Disorder",
+                "`c)` How To Defend Yourself",
+                "`d)` How To Make Out"
+            ],
+            "correct": "a"
+        }
+    ]
+}

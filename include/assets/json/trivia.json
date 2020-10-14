@@ -1,0 +1,986 @@
+{
+    "questions": [
+        {
+            "question": "What is the full form of IP?",
+            "choices": [
+                "`a)` Internet Provider",
+                "`b)` Internet Port",
+                "`c)` Internet Protocol"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Who is the founder of Microsoft?",
+            "choices": [
+                "`a)` Bill Gates",
+                "`b)` Steve Jobs",
+                "`c)` Steve Wozniak"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "1 byte = ?",
+            "choices": [
+                "`a)` 8 bits",
+                "`b)` 64 bits",
+                "`c)` 1024 bits"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "The C programming language was developed by?",
+            "choices": [
+                "`a)` Brendan Eich",
+                "`b)` Dennis Ritchie",
+                "`c)` Guido van Rossum"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What does CC mean in emails?",
+            "choices": [
+                "`a)` Carbon Copy",
+                "`b)`Creative Commons",
+                "`c)`other"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What does USB stands for?",
+            "choices": [
+                "`a)` Universal Serial Bus",
+                "`b)` Universal Sequential Bus",
+                "`c)` Unique Serial Bus"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Who is the founder of Apple?",
+            "choices": [
+                "`a)` Bill Gates",
+                "`b)` Steve Jobs",
+                "`c)` Steve Wozniak"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Who discover gravity?",
+            "choices": [
+                "`a)` Albert Einstein",
+                "`b)` Issac Newton",
+                "`c)` Stephen Hawking"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Who hosts a time travel party?",
+            "choices": [
+                "`a)` Bill Nye The Science Guy",
+                "`b)` Ron Mallett",
+                "`c)` Stephen Hawking"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "When did Albert Einstein die?",
+            "choices": [
+                "`a)` 1955",
+                "`b)` 1879",
+                "`c)` 1900"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+            "choices": [
+                "`a)` Largest railway station ",
+                "`b)` Highest railway station",
+                "`c)` Longest railway station"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Entomology is the science that studies",
+            "choices": [
+                "`a)` Behavior of human beings",
+                "`b)` Insects",
+                "`c)` The origin and history of the technical and scientific term"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+            "choices": [
+                "`a)` Asia",
+                "`b)` Africa",
+                "`c)` Australia"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Hitler party which came into power in 1933 is known as",
+            "choices": [
+                "`a)` Labour Party",
+                "`b)` Nazi Party",
+                "`c)` Ku-Klux-Klan"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Galileo was an Italian astronomer who",
+            "choices": [
+                "`a)` Discovered four satellites of Jupiter",
+                "`b)` Developed the telescope",
+                "`c)` All of the above"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "How did Spider-Man get his powers?",
+            "choices": [
+                "`a)` Military experiment went wrong",
+                "`b)` Born with them",
+                "`c)` Bitten by a radioactive spider"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "At the very end of Code Geass, how many characters were aware of Lelouch's true intentions?",
+            "choices": [
+                "`a)` 2 characters",
+                "`b)` 5 characters",
+                "`c)` 3 characters"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "In Violet Evergarden, what is the protagonist's job called?",
+            "choices": [
+                "`a)` Auto-Memory Doll",
+                "`b)` Auto-Delivery Doll",
+                "`c)` Memory-Bank Doll"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "In Re: Zero, what was Emilia's fake name?",
+            "choices": [
+                "`a)` Satilla",
+                "`b)` Satella",
+                "`c)` Satellen"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What is the other name of 'Accelerator' (the ability), in the Toaru series?",
+            "choices": [
+                "`a)` Naruto",
+                "`b)` Vector Law",
+                "`c)` One-Way Road"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Exposure to sunlight helps a person improve his health because",
+            "choices": [
+                "`a)` The ultraviolet rays convert skin oil into Vitamin D",
+                "`b)` Resistance power increases",
+                "`c)` All of the above"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Golf player Vijay Singh belongs to which country?",
+            "choices": [
+                "`a)` USA",
+                "`b)` Fiji",
+                "`c)` India"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "For the Olympics and World Tournaments, the dimensions of basketball court are?",
+            "choices": [
+                "`a)` 26 m x 14 m",
+                "`b)` 28 m x 15 m",
+                "`c)` 28 m x 16 m"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Guwahati High Court is the judicature of?",
+            "choices": [
+                "`a)` Nagaland",
+                "`b)` Arunachal Pradesh",
+                "`c)` All of the above"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Friction can be reduced by changing from?",
+            "choices": [
+                "`a)` Sliding to rolling",
+                "`b)` Dynamic to static",
+                "`c)` Potential energy to kinetic energy"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "How tall is Levi Ackerman?",
+            "choices": [
+                "`a)` 64 inches tall",
+                "`b)` 61 inches tall",
+                "`c)` 63 inches tall"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Who voiced Touka Kirishima in the Tokyo Ghoul Dub?",
+            "choices": [
+                "`a)` Cherami Leigh",
+                "`b)` Brina Palencia",
+                "`c)` Caitlin Glass"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Fire temple is the place of worship of which of the following religion?",
+            "choices": [
+                "`a)` Zoroastrianism",
+                "`b)` Taoisma",
+                "`c)` Judaism"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Which shinigami dropped his notebook in the human world?",
+            "choices": [
+                "`a)` Ryuk",
+                "`b)` Rem",
+                "`c)` Mina"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "From which anime is the quote 'People die when they are killed.'?",
+            "choices": [
+                "`a)` Sword Art Online",
+                "`b)` Fate/stay Night",
+                "`c)` Steins Gate"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Which shinigami dropped his notebook in the human world?",
+            "choices": [
+                "`a)` Ryuk",
+                "`b)` Rem",
+                "`c)` Mina"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Which anime has the OP 'Kyouran Hey Kids!!' ?",
+            "choices": [
+                "`a)` Tokyo Ghoul",
+                "`b)` Angel Beats",
+                "`c)` Norgami"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Yuno Gasai and Yukiteru Amano both feature in which anime?",
+            "choices": [
+                "`a)` Corpse Party",
+                "`b)` Mirai Nikki",
+                "`c)` Deadman Wonderland"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Type in the missing word of the anime title: The __ of Haruhi Suzumiya",
+            "choices": [
+                "`a)` Depression",
+                "`b)` Melancholy",
+                "`c)` Desolation"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What is the name of the organization whose aim is to exterminate ghouls?",
+            "choices": [
+                "`a)` GGC",
+                "`b)` CCG",
+                "`c)` Aogiri Tree"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "In which part of the Black Butler franchise did Arthur appear?",
+            "choices": [
+                "`a)` Kuroshitsuji: Book Of Circus",
+                "`b)` Kuroshitsuji",
+                "`c)` Kuroshitsuji: Book Of Murder"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "In Danganronpa: The Animation, which character is executed first?",
+            "choices": [
+                "`a)` Sayaka Maizono",
+                "`b)` Leon Kuwata",
+                "`c)` Mukuro Ikusaba"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Which anime also became a popular trading card game and one of the first augmented reality games to hit the market?",
+            "choices": [
+                "`a)` Bakugan",
+                "`b)` Kakegurui",
+                "`c)` Pokemon"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Which Japanese anime made it big in the U.S, even being shown on Saturday morning television?",
+            "choices": [
+                "`a)` Durarura",
+                "`b)` Sailor Moon",
+                "`c)` Dragon Ball Z"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Fullmetal Alchemist is an action-packed story centering on two brothers who lost more than one limb in a ritual to do what?",
+            "choices": [
+                "`a)` close the portal to Hell",
+                "`b)` grow their power exponentially",
+                "`c)` bring back their dead mother"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Which of these anime features a gun-slinging bounty hunter out in the reaches of space?",
+            "choices": [
+                "`a)` Cowboy Bebop",
+                "`b)` Higorashi no naku koro ni",
+                "`c)` Read or Die"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Which anime explores what happens when you accidentally grant immortality to thieves and mafia?",
+            "choices": [
+                "`a)` God Eater",
+                "`b)` Darker than Black",
+                "`c)` Baccano!"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Which anime starts slow, then explodes mid-season with time travel and the butterfly effect?",
+            "choices": [
+                "`a)` Steins;Gate",
+                "`b)` Angel Beats!",
+                "`c)` Blood+"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Which popular anime produced this quote: Your drill is the drill that will pierce the heavens?",
+            "choices": [
+                "`a)` Gurren Lagann",
+                "`b)` Rurouni Kenshin",
+                "`c)` Fate/stay night"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "In Naruto, the main character (a ninja) wears what color?",
+            "choices": [
+                "`a)` Red",
+                "`b)` Orange",
+                "`c)`  White"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "How many wives did Henry VIII have?",
+            "choices": [
+                "`a)` 6",
+                "`b)` 12",
+                "`c)` 3"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is the hottest planet?",
+            "choices": [
+                "`a)` Moon",
+                "`b)` Venus",
+                "`c)` Jupiter"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What is the H in H20?",
+            "choices": [
+                "`a)` Hydrogen",
+                "`b)` Hydra",
+                "`c)` Helium"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What's Shakespear's shortest tragedy?",
+            "choices": [
+                "`a)` Othello",
+                "`b)` Hamlet",
+                "`c)` Macbeth"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "What's the longest river in the world?",
+            "choices": [
+                "`a)` Yangtze",
+                "`b)` Amazon River",
+                "`c)` Nile"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "How many Harry Potter books are there?",
+            "choices": [
+                "`a)` 7 books",
+                "`b)` 5 books",
+                "`c)` 10 books"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "How many ribs are in the human body?",
+            "choices": [
+                "`a)` 15",
+                "`b)` 12",
+                "`c)` 18"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What's the name of Thor's hammer?",
+            "choices": [
+                "`a)` Johnny",
+                "`b)` Mjolnir",
+                "`c)` Kewin"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Who does the Mad Thanos sacrifice to acquire the Soul Stone?",
+            "choices": [
+                "`a)` Iron-Man",
+                "`b)` Nebula",
+                "`c)` Gamora"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "In ATLA, which character was secretly the renowned Blue Spirit?",
+            "choices": [
+                "`a)` Jet",
+                "`b)` Haru",
+                "`c)` Zuko"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "What's the name of wonder woman's mother?",
+            "choices": [
+                "`a)` Hippolyta",
+                "`b)` Kitana",
+                "`c)` Hestia"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "In Minecraft, What is the rarest zombie drop?",
+            "choices": [
+                "`a)` Carrot",
+                "`b)` Potato",
+                "`c)` Beetroot"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What is the lightest metal?",
+            "choices": [
+                "`a)` Iron",
+                "`b)` Osmium",
+                "`c)` Lithium"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "In which direction does the Sunset?",
+            "choices": [
+                "`a)` East",
+                "`b)` North",
+                "`c)` West"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "The element common to all acids is? how abt this one?",
+            "choices": [
+                "`a)` Lithium",
+                "`b)` Hydrogen",
+                "`c)` Iron"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Sounds waves in air are--",
+            "choices": [
+                "`a)` Longitudinal waves",
+                "`b)` Mechanical waves",
+                "`c)` Pressure waves"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "One thousand microns is equal to?",
+            "choices": [
+                "`a)` 1 Millimetre",
+                "`b)` 5 Millimetre",
+                "`c)` 10 Millimetre"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "In which year was John F. Kennedy assassinated?",
+            "choices": [
+                "`a)` 1963",
+                "`b)` 1964",
+                "`c)` 1965"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "How many hills were the ancient city of Rome built on?",
+            "choices": [
+                "`a)` Six Hills",
+                "`b)` Seven Hills",
+                "`c)` Eight Hills"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "In which year was the Berlin Wall torn down?",
+            "choices": [
+                "`a)` 1990",
+                "`b)` 1991",
+                "`c)` 1994"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Where was Adolf Hitler born?",
+            "choices": [
+                "`a)` Germany",
+                "`b)` Austria",
+                "`c)` England"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "When was Pearl Harbor bombed?",
+            "choices": [
+                "`a)` 1946",
+                "`b)` 1938",
+                "`c)` 1941"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Where is the magic lamp hidden in Aladdin?",
+            "choices": [
+                "`a)` Snake Cave",
+                "`b)` Secret Cave",
+                "`c)` The Cave of Wonders"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "What was the name of Cinderella's step-mother?",
+            "choices": [
+                "`a)` Frieda",
+                "`b)` Mother Gothel",
+                "`c)` Lady Tremaine"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Where does Finding Nemo take place?",
+            "choices": [
+                "`a)` Queensland",
+                "`b)` Amazon",
+                "`c)` Pacific"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is Sleeping Beauty's name?",
+            "choices": [
+                "`a)` Cinderella",
+                "`b)` Princess Aurora",
+                "`c)` Jasmine"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What Michel Jackson album achieved five chart-topping singles?",
+            "choices": [
+                "`a)` Off The Wall",
+                "`b)` Dangerous",
+                "`c)` Xscape"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Who was the lead guitarist of Queen?",
+            "choices": [
+                "`a)` Roger Taylor",
+                "`b)` Brian Harold May",
+                "`c)` John Deacon"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "In what part of the body would you find the fibula?",
+            "choices": [
+                "`a)` Leg",
+                "`b)` Arm",
+                "`c)` Throat"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is seven cubed?",
+            "choices": [
+                "`a)` 21",
+                "`b)` 343",
+                "`c)` 457"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Hamilton has become one of the biggest musical theatre shows of all time since it debuted in 2015, but what is the name of the acclaimed star who wrote it?",
+            "choices": [
+                "`a)` Hamilton",
+                "`b)` Lin-Manuel Miranda",
+                "`c)` Shakespeare"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Which popular video game franchise has released games with the subtitles Modern Warfare and Black Ops?",
+            "choices": [
+                "`a)` Halo",
+                "`b)` Destiny",
+                "`c)` Call Of Duty"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Saying the name of what dried fruit used to be used to encourage people to smile before a photo in the 1800s, before the phrase 'cheese'?",
+            "choices": [
+                "`a)` Prunes",
+                "`b)` Dates",
+                "`c)` Raisins"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "How deep can leatherback turtles dive?",
+            "choices": [
+                "`a)` 1000 Meters",
+                "`b)` 420 Meters",
+                "`c)` 1500 Meters"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is the hardest mineral on earth?",
+            "choices": [
+                "`a)` Quartz",
+                "`b)` Talc",
+                "`c)` Diamond"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "When is discord's release date?",
+            "choices": [
+                "`a)` August 20, 2015",
+                "`b)` May 13, 2015",
+                "`c)` February 10, 2015"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What is the equation of Mass–energy equivalence?",
+            "choices": [
+                "`a)` E = mc²",
+                "`b)` E = mc2",
+                "`c)` E = 2mc"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "How old is Aang from Avatar: The Last Airbender?",
+            "choices": [
+                "`a)` 12",
+                "`b)` 240",
+                "`c)` 112"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Where do penguins live?",
+            "choices": [
+                "`a)` North Pole",
+                "`b)` Iceland",
+                "`c)` South Pole"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "How many countries are in the world?",
+            "choices": [
+                "`a)` 193",
+                "`b)` 195",
+                "`c)` 199"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Which states does Jojo's Bizarre Adventure: Steel Ball Run race take place?",
+            "choices": [
+                "`a)` San Diego",
+                "`b)` New York City",
+                "`c)` Los Angeles"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "How many chromosomes do a human have?",
+            "choices": [
+                "`a)` 2n = 46",
+                "`b)` 2n = 50",
+                "`c)` 2n = 64"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Who is the founder of SpaceX?",
+            "choices": [
+                "`a)` Jack Ma",
+                "`b)` Elon Musk",
+                "`c)` Bill Gates"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Which studio produced Dragon Ball Z?",
+            "choices": [
+                "`a)` A-1 Pictures",
+                "`b)` Doga Kobo",
+                "`c)` Toei Animation"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "When did Christopher Columbus discover the new world?",
+            "choices": [
+                "`a)` August 3, 1492",
+                "`b)` October 12, 1500",
+                "`c)` December 2, 1460"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is the most popular country?",
+            "choices": [
+                "`a)` United States",
+                "`b)` France",
+                "`c)` China"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Which is the largest island?",
+            "choices": [
+                "`a)` Australia",
+                "`b)` Iceland",
+                "`c)` Greenland"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Whose career as a solo performer was launched with the song 'Careless Whisper'?",
+            "choices": [
+                "`a)` George Michael",
+                "`b)` Gregory Abbott",
+                "`c)` Michael Jackson"
+            ],
+            "correct": "a"
+        },        
+        {
+            "question": "Who had a hit with 'You Can't Touch This'?",
+            "choices": [
+                "`a)` Vanilla Ice",
+                "`b)` Rod Stewart",
+                "`c)` MC Hammer"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "What element did Joseph Priestly discover in 1774?",
+            "choices": [
+                "`a)` Mercury",
+                "`b)` Oxygen",
+                "`c)` Neon"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "The study of weather is what?",
+            "choices": [
+                "`a)` Phenology",
+                "`b)` Meteorology",
+                "`c)` Climatology"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "What does 'E' represent in E = MC2?",
+            "choices": [
+                "`a)` Energy",
+                "`b)` Einstein",
+                "`c)` Equation"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What color has the longest wavelength in the visible spectrum?",
+            "choices": [
+                "`a)` Red",
+                "`b)` Blue",
+                "`c)` Orange"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is the average life cycle of a red blood cell?",
+            "choices": [
+                "`a)` 7 Weeks",
+                "`b)` 80 Days",
+                "`c)` 120 Days"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "Who is the current manager of Manchester United?",
+            "choices": [
+                "`a)` José Mourinho",
+                "`b)` Ole Gunnar Soskjaer",
+                "`c)` Sir Alex Ferguson"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Who is the current editor of British Vogue?",
+            "choices": [
+                "`a)` Beatrix Miller",
+                "`b)` Alexandra Shulman",
+                "`c)` Edward Enninful"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "How many permanent teeth do a dog have?",
+            "choices": [
+                "`a)` 42",
+                "`b)` 48",
+                "`c)` 54"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is the name of Dua Lipa's 2020 album release?",
+            "choices": [
+                "`a)` Deezer Sessions",
+                "`b)` Future Nostalgia",
+                "`c)` Club Future Nostalgia"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "In what year did The Beatles split up?",
+            "choices": [
+                "`a)` 1957",
+                "`b)` 1970",
+                "`c)` 1963"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "How many goals did England score (excluding penalty shoot-outs) at the Men's 2018 FIFA World Cup?",
+            "choices": [
+                "`a)` 5",
+                "`b)` 8",
+                "`c)` 12"
+            ],
+            "correct": "c"
+        },
+        {
+            "question": "How many notes are there in a musical scale?",
+            "choices": [
+                "`a)` 7",
+                "`b)` 10",
+                "`c)` 12"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "Which country in the world is believed to have the most miles of motorways?",
+            "choices": [
+                "`a)` United State",
+                "`b)` China",
+                "`c)` England"
+            ],
+            "correct": "b"
+        },
+        {
+            "question": "Ataulfo, Alphonso and Keitt are varieties of what fruit?",
+            "choices": [
+                "`a)` Mango",
+                "`b)` Apple",
+                "`c)` Orange"
+            ],
+            "correct": "a"
+        },
+        {
+            "question": "What is the name for the Jewish New Year?",
+            "choices": [
+                "`a)` Hanukkah",
+                "`b)` Rosh Hashanah",
+                "`c)` Kwanza"
+            ],
+            "correct": "b"
+        }
+
+    ]
+}
