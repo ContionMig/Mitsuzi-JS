@@ -1,5 +1,5 @@
 # Mitsuzi
-[[My Website]](http://sagaanpillai.com/)
+[[My Website]](https://mitsuzi.xyz/)
 
 ![Promo](https://github.com/ContionMig/Mitsuzi-JS/blob/main/img/Photoshops/promo.png?raw=true)
  
