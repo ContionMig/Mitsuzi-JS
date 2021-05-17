@@ -23,6 +23,26 @@ Generate your own memes and reaction pictures using Mitsuzis meme commands! Sure
 
 Mitsuzi's simple music system delivers high-quality and lag-free music to your server.
  
+# Commands
+## Economy
+balance, base, beg, blackjack, camera, coinflip, daily, deposit, fish, gamble, hunt, leaderboard, mine, pay, postmeme, profile, search, setbio, shop, trivia, typetest, upgrade, wallet, weekly, wikihow, withdraw, work,
+## Fun
+8ball, advice, catfacts, chuck, clap, dick, fact, flirt, gay, gif, insults, iq, joke, kanye, kidsarestupid, leet, meme, owo, retard, showerthought, simp, tifu, topic, trumpquotes, wholesome, wouldyourather, yomama,
+## Memes/Images Manipulation
+3000years, aceattorney, achievement, alert, approved, bartchalkboard, beautiful, bobross, brazzers, caution, certificate, challenger, changemymind, chiidea, communist, deepfry, dislike, distort, factbook, gandhiquote, grab, gun, lisa, newpassword, pornhub, rainbow, scrolloftruth, supreme, worsehitler, worthless, youdied,
+## Moderation
+ban, createchannel, kick, purge, renameall,
+## Music
+bassboost, loop, lyrics, nowplaying, pause, play, playlist, queue, remove, resume, searchsong, shuffle, skip, skipto, stop, volume,
+## Others
+affirmations, animefact, animequotes, choose, crypto, doomsday, historytoday, math, morse, moviequote, news, ongoinganime, popularanime, profilepicture, proxylist, python, questions, randomidea, rottentomatoes, theonion, urban, weather, xkcd,
+## Pictures
+animal, bird, business, car, cat, city, confused, cringe, dog, duck, fashion, food, fox, genwaifu, randompic, rooms, shiba, space, weirdpic,
+## Server Settings
+antispam, invitefilter, setprefix, setwelcome,
+## Utility
+ascii, avatar, botinfo, capturewebsite, feedback, invite, ipinfo, minecraftserver, osu, pastebin, ping, poll, qrcode, say, serverinfo, someone, steam, timer, topinvite, userinfo,
+ 
 # Packages Used
 
 @discordjs/opus@0.3.2
