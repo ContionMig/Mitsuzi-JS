@@ -43,7 +43,7 @@ module.exports = {
               },
               {
                 name: '• Users',
-                value: `${client.users.cache.size * 4}`,
+                value: `${client.users.cache.size}`,
                 inline: true,
               },
               {
