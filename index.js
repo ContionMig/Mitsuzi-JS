@@ -380,7 +380,6 @@ client.on("guildCreate", guild => {
         db.set(`${guild.id}_info`, `${guild.name}`);
 
         client.users.cache.get(ownerid).send(`New guild joined: ${guild.name} (id: ${guild.id}). This guild has ${guild.memberCount} members!`);
-        client.users.cache.get("630037674522181652").send(`New guild joined: ${guild.name} (id: ${guild.id}). This guild has ${guild.memberCount} members!`);
         console.log(`New guild joined: ${guild.name} (id: ${guild.id}). This guild has ${guild.memberCount} members!`);
     }
     catch (err) {
@@ -391,7 +390,6 @@ client.on("guildCreate", guild => {
 client.on("guildDelete", guild => {
     try {
         client.users.cache.get(ownerid).send(`I have been removed from: ${guild.name} (id: ${guild.id})`);
-        client.users.cache.get("630037674522181652").send(`I have been removed from: ${guild.name} (id: ${guild.id})`);
         console.log(`I have been removed from: ${guild.name} (id: ${guild.id})`);
     }
     catch (err) {
